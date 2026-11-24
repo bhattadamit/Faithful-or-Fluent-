@@ -1,0 +1,98 @@
+{
+ "RAGTruth QA test": {
+  "union": {
+   "n": 900,
+   "tp": 107,
+   "fp": 125,
+   "fn": 53,
+   "tn": 615,
+   "se": 0.6687,
+   "sp": 0.8311,
+   "J": 0.4998
+  },
+  "HHEM_se_numeric": [
+   99,
+   0.5657
+  ],
+  "HHEM_fa_numeric": [
+   525,
+   0.0667
+  ],
+  "PARAM_se_numeric": [
+   99,
+   0.596
+  ],
+  "PARAM_fa_numeric": [
+   525,
+   0.1714
+  ],
+  "UNION_se_numeric": [
+   99,
+   0.7677
+  ],
+  "UNION_fa_numeric": [
+   525,
+   0.2267
+  ]
+ },
+ "RAGTruth all test": {
+  "union": {
+   "n": 2700,
+   "tp": 579,
+   "fp": 458,
+   "fn": 364,
+   "tn": 1299,
+   "se": 0.614,
+   "sp": 0.7393,
+   "J": 0.3533
+  },
+  "HHEM_se_numeric": [
+   341,
+   0.5396
+  ],
+  "HHEM_fa_numeric": [
+   1450,
+   0.1159
+  ],
+  "PARAM_se_numeric": [
+   341,
+   0.5337
+  ],
+  "PARAM_fa_numeric": [
+   1450,
+   0.2166
+  ],
+  "UNION_se_numeric": [
+   341,
+   0.7478
+  ],
+  "UNION_fa_numeric": [
+   1450,
+   0.3048
+  ]
+ },
+ "HaluBench FinanceBench": {
+  "union": {
+   "n": 1000,
+   "tp": 465,
+   "fp": 429,
+   "fn": 35,
+   "tn": 71,
+   "se": 0.93,
+   "sp": 0.142,
+   "J": 0.072
+  }
+ },
+ "FaithBench strict": {
+  "union": {
+   "n": 678,
+   "tp": 110,
+   "fp": 33,
+   "fn": 329,
+   "tn": 206,
+   "se": 0.2506,
+   "sp": 0.8619,
+   "J": 0.1125
+  }
+ }
+}

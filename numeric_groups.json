@@ -1,0 +1,146 @@
+{
+ "RAGTruth all test": {
+  "HHEM": {
+   "hall_numeric": [
+    341,
+    184
+   ],
+   "hall_other": [
+    602,
+    278
+   ],
+   "faithful_numeric": [
+    1450,
+    168
+   ],
+   "faithful_other": [
+    307,
+    16
+   ]
+  },
+  "PARAM": {
+   "hall_numeric": [
+    341,
+    182
+   ],
+   "hall_other": [
+    602,
+    86
+   ],
+   "faithful_numeric": [
+    1450,
+    314
+   ],
+   "faithful_other": [
+    307,
+    0
+   ]
+  },
+  "UNION": {
+   "hall_numeric": [
+    341,
+    255
+   ],
+   "hall_other": [
+    602,
+    324
+   ],
+   "faithful_numeric": [
+    1450,
+    442
+   ],
+   "faithful_other": [
+    307,
+    16
+   ]
+  },
+  "UNION_by_type": {
+   "Evident Baseless Info": [
+    542,
+    363
+   ],
+   "Evident Conflict": [
+    459,
+    263
+   ],
+   "Subtle Baseless Info": [
+    141,
+    100
+   ],
+   "Subtle Conflict": [
+    15,
+    8
+   ]
+  }
+ },
+ "RAGTruth QA test": {
+  "HHEM": {
+   "hall_numeric": [
+    99,
+    56
+   ],
+   "hall_other": [
+    61,
+    26
+   ],
+   "faithful_numeric": [
+    525,
+    35
+   ],
+   "faithful_other": [
+    215,
+    6
+   ]
+  },
+  "PARAM": {
+   "hall_numeric": [
+    99,
+    59
+   ],
+   "hall_other": [
+    61,
+    11
+   ],
+   "faithful_numeric": [
+    525,
+    90
+   ],
+   "faithful_other": [
+    215,
+    0
+   ]
+  },
+  "UNION": {
+   "hall_numeric": [
+    99,
+    76
+   ],
+   "hall_other": [
+    61,
+    31
+   ],
+   "faithful_numeric": [
+    525,
+    119
+   ],
+   "faithful_other": [
+    215,
+    6
+   ]
+  },
+  "UNION_by_type": {
+   "Evident Baseless Info": [
+    109,
+    82
+   ],
+   "Evident Conflict": [
+    26,
+    7
+   ],
+   "Subtle Baseless Info": [
+    40,
+    31
+   ]
+  }
+ }
+}
