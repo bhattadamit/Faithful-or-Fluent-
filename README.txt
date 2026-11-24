@@ -2,8 +2,8 @@ Online Resource 1
 
 Article: Faithful or Fluent? An Evidence-Calibrated Screening Model for Evaluating Retrieval-Augmented Answers on US Consumer-Banking Procedures
 Journal: Knowledge and Information Systems
-Authors: Amit Bhattad, Durga Bhattad, Aditya Mantri
-Corresponding author: Amit Bhattad, IT Consultant, Kforce Inc, Tampa, FL, USA; e-mail: bhattad.amit@gmail.com
+Authors: 
+Corresponding author: 
 
 Contents
 1. Faithful_or_Fluent_replication_analysis.py reproduces every number in Tables 5-12 and Figs. 1-7.
